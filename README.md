@@ -117,7 +117,7 @@ console projects!]
 
 ## 💌 Let's Connect & Create Magic Together! 💌
 
-<a href="https://linkedin.com/in/[Your linkedin]">
+<a href="https://www.linkedin.com/in/anuj-tanwar-aa0977279">
   <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/[Your twitter]"> 
