@@ -63,20 +63,41 @@ console projects!
 
 ---
 
-## 🛠️ My Kawaii Tech Stack 🛠️
+## Tech Stack 
 
 <div align="center">
 
-### 💕 Languages I Speak Fluently 💕
+### Languages I know
+<div align="left" display="flex" flex-direction="column">
+<table>
+  
+<th>
+  
+![Hindi](https://img.shields.io/badge/Hindi-FF1493?style=for-the-badge&logo=code&logoColor=white)
+  </th>
+  <th>
+    
+![English](https://img.shields.io/badge/English-FF69B4?style=for-the-badge&logo=code&logoColor=white)
+  </th>
 
-![Primary](https://img.shields.io/badge/[Hindi]-FF1493?style=for-the-badge&logo=code&logoColor=white)
-![Lang1](https://img.shields.io/badge/[English]-FF69B4?style=for-the-badge&logo=code&logoColor=white)
-![Lang2](https://img.shields.io/badge/[Nimari native lang]-FFB6C1?style=for-the-badge&logo=code&logoColor=white)
-![Lang3](https://img.shields.io/badge/[kannada ReadONly]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+  <th>
+  
+![kannada](https://img.shields.io/badge/Kannada-FFB6C1?style=for-the-badge&logo=code&logoColor=white)
+  </th>
+  <th>
+    
+![Nimari](https://img.shields.io/badge/Nimari-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+</th>
+<th>
+  
+![Sanskrat](https://img.shields.io/badge/Sanskrat-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
 
-### 🌸 Skills & Tools 🌸
+</th>
+</table>
+</div>
+### Skills & Tools
 
-[ C++ , Java , ]
+![](https://img.shields.io/badge/[CPP,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
