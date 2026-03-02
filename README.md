@@ -2,7 +2,7 @@
 
 # 🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
 
-<img src="https://share.google/UPJZrHqpfWskRSULA" alt="Typing SVG" />
+<img src="https://share.google/UPJZrHqpfWskRSULA.svg" alt="Typing SVG" />
 
 </div>
 
@@ -120,10 +120,10 @@ console projects!]
 <a href="https://www.linkedin.com/in/anuj-tanwar-aa0977279">
   <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/[Your twitter]"> 
+<a href="#"> 
   <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://discord.gg/[Your discord]">
+<a href="#">
   <img src="https://img.shields.io/badge/Discord-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="[Your website]">
@@ -135,9 +135,9 @@ console projects!]
 
 ### 🌸 Thanks for visiting this iconic profile from the sea .! 🌸
 
-<img src="https://komarev.com/ghpvc/?username=[Your username]&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be glade to connect with you!</b> 😊</em>
 
 </div>
 
