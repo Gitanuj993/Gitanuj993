@@ -41,7 +41,13 @@
 console projects!
 
 ![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-![link](https://mock-web-host.vercel.app)
+
+<a href="https://mock-web-host.vercel.app"> 
+  
+![link](https://img.shields.io/badge/Link-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+
+  </a>
+  
 ![Tech](https://img.shields.io/badge/Tech-Calculator-FFB6C1?style=for-the-badge)
 
 </td>
@@ -115,15 +121,15 @@ console projects!
 
 ---
 
-## 💫 Fun Zone 💫
+## 
 
 <div align="center">
 
 ### 🎀 Personal habits 🎀
 
 🎨 **Hobbies:** Literature learning , Basketball sport , chess .  
-🎯 **Current Goal:** DSA 
-✨ **Life Motto:** gyanMarg , living through learning.
+🎯 **Current Goal:** DSA,CPP,Python
+✨ **Life Motto:** Feedback driven mindset
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gitanuj993&show_icons=true&theme=radical&hide_border=true&bg_color=FF69B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFB6C1" alt="GitHub Stats" width="400"/>
 
