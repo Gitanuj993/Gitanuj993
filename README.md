@@ -36,26 +36,27 @@
 <tr>
 <td width="50%">
 
-#### 💝 [Console C++ Projects ]
-[ In this field ,  learning data structure via
-console projects!]
+#### 💝 Console C++ Projects 
+ In this field ,  learning data structure via
+console projects!
 
-[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-
-(https://mock-web-host.vercel.app/)
+![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![link](https://mock-web-host.vercel.app)
 ![Tech](https://img.shields.io/badge/Tech-Calculator-FFB6C1?style=for-the-badge)
 
 </td>
+<!-- Comment When created 
 <td width="50%">
-
+<!--
 #### 🎈 [Portfolio Website !]
 [ Personal Portfolio Website for achievements ]
-
+<
 [![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([Your project2Link])
 ![Tech](https://img.shields.io/badge/Tech-portfolio-FFB6C1?style=for-the-badge)
-
+<
 </td>
-</tr>
+-->
+</tr> <!-- End of row -->
 </table>
 
 </div>
