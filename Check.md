@@ -19,6 +19,13 @@
 <img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 </div>
+<div align="center">
+
+## 🎀 About This Kawaii Coder 🎀
+
+<img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+</div>
 
 🌈 **Bio:** Problematic Thinker ! 
 📍 **Location:** India  
