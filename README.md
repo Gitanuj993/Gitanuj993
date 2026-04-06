@@ -150,7 +150,7 @@ console projects!
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="[Your website]">
+<a href="#">
   <img src="https://img.shields.io/badge/Website-FFC0CB?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
 </a>
 <a href="mailto:gleuser83@gmail.com">
