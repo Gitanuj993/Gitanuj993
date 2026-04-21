@@ -21,7 +21,7 @@
 
 <div align="center">
   # Last updated : 
-  <h4>01st-March-2026 </h4>
+  <h4>21st-April-2026 </h4>
 </div>
 
 ---
@@ -36,31 +36,13 @@
 <td width="50%">
 
 #### 💝 Console C++ Projects 
- In this field ,  learning data structure via
-console projects!
 
-![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-
-<a href="https://mock-web-host.vercel.app"> 
-  
-![link](https://img.shields.io/badge/Link-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-
-  </a>
-  
-![Tech](https://img.shields.io/badge/Tech-Calculator-FFB6C1?style=for-the-badge)
-
-</td>
-<!-- Comment When created 
+</tr> <!-- End of row -->
+<tr>
 <td width="50%">
-<!--
-#### 🎈 [Portfolio Website !]
-[ Personal Portfolio Website for achievements ]
-<
-[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([Your project2Link])
-![Tech](https://img.shields.io/badge/Tech-portfolio-FFB6C1?style=for-the-badge)
-<
-</td>
--->
+
+#### 💝 Console python Projects 
+
 </tr> <!-- End of row -->
 </table>
 
@@ -73,38 +55,32 @@ console projects!
 <div align="center">
 
 ### Languages I know
-<div align="left" display="flex" flex-direction="column">
+<div align="center" display="flex" flex-direction="column">
   
-<table padding="none" border-radius = 20px>
+<table padding="none" border-radius = 60px>
   
-<th>
+<tr>
   
 ![Hindi](https://img.shields.io/badge/Hindi-FF1493?style=for-the-badge&logo=code&logoColor=white)
-  </th>
-  <th>
-    
 ![English](https://img.shields.io/badge/English-FF69B4?style=for-the-badge&logo=code&logoColor=white)
-  </th>
-
-  <th>
-  
 ![kannada](https://img.shields.io/badge/Kannada-FFB6C1?style=for-the-badge&logo=code&logoColor=white)
-  </th>
-  <th>
-    
 ![Nimari](https://img.shields.io/badge/Nimari-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-</th>
-<th>
-  
 ![Sanskrat](https://img.shields.io/badge/Sanskrat-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-
-</th>
+</tr>
 </table>
 </div>
+<div>
+  <table>
+    <tr>
 ### Skills & Tools
 
-![](https://img.shields.io/badge/[CPP,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-
+![skills](https://img.shields.io/badge/[CPP,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Pycharm]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[vscode]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Python]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+</tr>
+</table>
+</div>
 </div>
 
 ---
